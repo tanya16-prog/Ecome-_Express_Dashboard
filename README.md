@@ -6,6 +6,7 @@ Recommonded Stuture and order
    This Power BI dashboard provides a comprehensive analysis of e-commerce sales performance. It helps stakeholders monitor key business metrics such as Revenue, Average Order Value (AOV), Order Volume, Cancellation Rate, and Lost Revenue due to cancellations.
 
 The dashboard enables users to analyze sales trends over time, identify top-performing products and categories, and evaluate regional sales performance for data-driven business decisions.
+
 3. Tech Stack
  . Data Visualization
     Power BI Desktop
@@ -26,7 +27,8 @@ The dashboard enables users to analyze sales trends over time, identify top-perf
      Line Charts
      Slicers
      Interactive Filters
-4. Data Source
+   
+5. Data Source
  .  Orders Table
      Order ID
      Purchase Date
@@ -43,9 +45,12 @@ The dashboard enables users to analyze sales trends over time, identify top-perf
      AOV
      Cancellation Rate
      Lost Revenue
-5. Features / Highlights
+   
+7. Features / Highlights
     KPI Monitoring
     Revenue Trend Analysis
     Product Performance Analysis
     Category Analysis
     Geographic Insights...
+    Screenshot/Demo
+   
