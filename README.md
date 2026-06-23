@@ -2,12 +2,17 @@
 Recommonded Stuture and order
 1. Project Title / Headline
      E-Commerce Sales Performance Dashboard | Power BI Analytics Project
-2. Short Description / Purpose
+
+   
+3. Short Description / Purpose
    This Power BI dashboard provides a comprehensive analysis of e-commerce sales performance. It helps stakeholders monitor key business metrics such as Revenue, Average Order Value (AOV), Order Volume, Cancellation Rate, and Lost Revenue due to cancellations.
 
 The dashboard enables users to analyze sales trends over time, identify top-performing products and categories, and evaluate regional sales performance for data-driven business decisions.
 
+
+
 3. Tech Stack
+   
  . Data Visualization
     Power BI Desktop
  .  Data Modeling
@@ -28,6 +33,7 @@ The dashboard enables users to analyze sales trends over time, identify top-perf
      Slicers
      Interactive Filters
    
+   
 5. Data Source
  .  Orders Table
      Order ID
@@ -46,6 +52,7 @@ The dashboard enables users to analyze sales trends over time, identify top-perf
      Cancellation Rate
      Lost Revenue
    
+   
 7. Features / Highlights
     KPI Monitoring
     Revenue Trend Analysis
@@ -53,4 +60,5 @@ The dashboard enables users to analyze sales trends over time, identify top-perf
     Category Analysis
     Geographic Insights...
     Screenshot/Demo
+   Show What The Dashboard Look : https://github.com/tanya16-prog/Ecome-_Express_Dashboard/blob/main/screenshot_dashboard.jpeg
    
